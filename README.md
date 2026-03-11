@@ -7,7 +7,7 @@ Here is a **clean, professional, and improved README** for your project. It adds
 A simple **Tic Tac Toe game built with React and Vite**, featuring a clean UI and fast performance. The project demonstrates how to build an interactive game using modern React practices.
 
 🌐 **Live Demo:**
-[https://react-app-test-ten-omega.vercel.app/](https://react-app-test-ten-omega.vercel.app/)
+https://tic-tac-toe-react-six-xi.vercel.app/
 
 ---
 
